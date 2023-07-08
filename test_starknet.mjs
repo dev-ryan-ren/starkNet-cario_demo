@@ -1,6 +1,5 @@
-// 1. 后缀名改为mjs，模块化执行
-// 2. npm i starknet npm i dotenv
-// 3. node test_starknet.js
+// 1. npm i
+// 2. node test_starknet.mjs
 
 import {Provider, Contract, Account, ec, number} from 'starknet';
 import 'dotenv/config';
