@@ -61,5 +61,5 @@ npm i
 ```
 
 ```
-node test.mjs
+npm run dev
 ```
