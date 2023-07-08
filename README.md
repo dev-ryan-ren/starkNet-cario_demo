@@ -1,3 +1,3 @@
 1. npm i
 
-2. node test_starknet.mjs
+2. node test.mjs
